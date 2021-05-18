@@ -4,7 +4,7 @@
   "description": "",
   "main": "project_menu.js",
   "dependencies": {
-    "axios": "^0.21.1"
+    "axios": ">=0.21.1"
   },
   "devDependencies": {},
   "scripts": {
