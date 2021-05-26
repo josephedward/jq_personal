@@ -1,14 +1,6 @@
-node_modules
-/node_modules
-node_modules/
-/node_modules/*
 
-unused
-/unused
-unused/
-/unused/*
+misc
+/misc
+misc/
+/misc/*
 
-mockup_files
-/mockup_files
-mockup_files/
-/mockup_files/*
